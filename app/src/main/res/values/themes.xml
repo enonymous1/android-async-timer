@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Window theme only; the in-app theme is MaterialTheme in Compose. -->
+    <style name="Base.Theme.AsyncTimer" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.AsyncTimer" parent="Base.Theme.AsyncTimer" />
+</resources>
